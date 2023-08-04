@@ -32,7 +32,7 @@
     </v-main>
 
     <v-footer color="grey" app>
-      <span>© 2023 internettools.app</span>
+      <span>Vue w/ Docker Example</span>
     </v-footer>
   </v-app>
 </template>

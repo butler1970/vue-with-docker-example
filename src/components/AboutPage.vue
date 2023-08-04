@@ -1,108 +1,11 @@
 <template>
-  <v-sheet>
-    <v-container>
-      <img alt="Vue logo" src="../assets/logo.png">
-    </v-container>
-  </v-sheet>
-
   <div class="about">
-    <h1>Robert Butler</h1>
-    <h4>Senior Software Engineer / Senior PHP Developer</h4>
-    <h2>Introduction</h2>
-    <p>Software development started as a favorite hobby in 1980 which developed into a full-time career later in life.</p>
-    <p>I have a long history of starting and finishing projects throughout my 30+ years of software development experience. I have demonstrated to all of my employers an aptitude for gathering requirements, turning them into technical specifications and realizing those requirements through development, testing, packaging and/or deployment.</p>
-    <p>I have very strong object oriented development skills, experience with application design patterns and enterprise integration patterns. I have implemented these patterns in various programming languages including C/C++, C#, Java, Kotlin and PHP.</p>
-    <p>I have worked with numerous relational database management systems including Microsoft SQL, Oracle and MySQL. I'm familiar with writing stored procedures, creating normalized schemas and enforcing referential integrity using foreign key constraints, triggers, etc.</p>
-
-    <h2>Languages</h2>
-    <li>C/C++</li>
-    <li>C#</li>
-    <li>PHP</li>
-    <li>Java</li>
-    <li>VB</li>
-    <li>Javascript</li>
-    <li>VB Script</li>
-    <li>Perl 5.0</li>
-    <li>Kotlin</li>
-
-    <h2>Platform Technologies</h2>
-    <li>COM/ATL</li>
-    <li>.NET</li>
-    <li>WPF</li>
-    <li>LAMP</li>
-    <li>AWS</li>
-
-    <h2>Client/Server Libraries</h2>
-    <li>ODBC/DAO/ADO</li>
-    <li>Win32</li>
-    <li>WinInet</li>
-    <li>WinHTTP</li>
-
-    <h2>PHP Frameworks</h2>
-    <li>ZendFramework/ZF2</li>
-    <li>CakePHP</li>
-    <li>WordPress</li>
-    <li>Symphony</li>
-
-    <h2>Operating Systems</h2>
-    <li>Windows 95/98/2000</li>
-    <li>Windows XP</li>
-    <li>Windows Vista</li>
-    <li>SunOS</li>
-    <li>HP-UX</li>
-    <li>Linux Distributions (Ubuntu, Debian, Redhat, CentOS, Amazon Linux</li>
-    <li>MacOS</li>
-
-    <h2>Servers</h2>
-    <li>MS SQL 6/2000</li>
-    <li>MySQL</li>
-    <li>Oracle 8i</li>
-    <li>Apache</li>
-    <li>Tomcat</li>
-    <li>IIS</li>
-    <li>MSMQ</li>
-    <li>Ktor</li>
-
-    <h2>Additional</h2>
-    <p>I'm also experienced with the principles and practices of various SDLC processes such as Sigma 6, Agile, XP and
-      traditional waterfall.</p>
-
-    <p>I'm skilled at using UML for application architecture definition and refining. I am particularly familiar with
-      <b>Sparx Systems Enterprise Architect</b>.</p>
-
-    <h2>Previous Employers</h2>
-    <p>Here are some links to companies I've worked for in the past. Please note the gaps in between are merely because
-      some employers don't have websites I can reference and are not a result of gaps in my employment.</p>
-
-    <li><a target="_blank" href="https://www.espritcam.com/about">D.P. Technologies</a> <b>2000 to 2003</b></li>
-    <li><a target="_blank" href="https://en.wikipedia.org/wiki/First_Data">First Data Corp.</a> acquired by <a target="_blank" href="https://www.fiserv.com/en.html">Fiserv</a> <b>2003 to 2004</b></li>
-    <li><a target="_blank" href="https://www.astera.com">Astera</a> <b>2004</b></li>
-    <li><a target="_blank" href="https://en.wikipedia.org/wiki/Movielink">Movielink</a> acquired by <a  target="_blank" href="https://www.blockbuster.com">Block Buster</a> <b>2005 to 2009</b></li>
-    <li><a target="_blank" href="https://www.acquireinteractive.com/">Acquire Interactive, LLC</a> <b>2015 to 2023</b></li>
-
-    <h2>Specialties</h2>
-    <li>C/C++</li>
-    <li>VB 6.0</li>
-    <li>C#</li>
-    <li>Java</li>
-    <li>Javascript</li>
-    <li>VB Script</li>
-    <li>VBA</li>
-    <li>PHP</li>
-    <li>SQL</li>
-    <li>Win32</li>
-    <li>ActiveX/COM</li>
-    <li>ADO</li>
-    <li>DAO</li>
-    <li>ODBC</li>
-    <li>UML</li>
-    <li>Sigma 6</li>
-    <li>Agile, XP</li>
-    <li>Kotlin</li>
-    <h2>Contact Information</h2>
-    <li><a target="_blank" href="https://linkedin.com/in/butler1970">LinkedIn</a></li>
-    <li><a target="_blank" href="mailto:butler1970@gmail.com">butler1970@gmail.com</a></li>
-    <br/><br/><br/>
+    <h1>About</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tristique consectetur euismod. Curabitur dignissim suscipit lacus, in efficitur erat rutrum vitae. Ut vel tellus a lectus fringilla ornare eu at nisi. Aliquam aliquet nulla a lacus euismod tristique. In vel facilisis augue, a dignissim tellus. Suspendisse semper, purus aliquam laoreet pretium, lacus sapien rutrum massa, eu aliquet purus velit sit amet augue. Phasellus nec arcu nibh. Mauris et tellus vel quam pulvinar volutpat. Proin sollicitudin feugiat orci, a finibus nibh elementum vel. Integer et venenatis velit, et feugiat ante. Fusce suscipit elit vel purus sodales eleifend. Sed placerat tincidunt neque ac molestie. Maecenas bibendum nisl at consequat vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>Phasellus risus lacus, feugiat in scelerisque non, commodo non massa. Quisque dignissim dignissim sollicitudin. Sed vitae ante urna. Nullam at leo sit amet ante aliquet faucibus. Aliquam nec lorem et nisi ornare vehicula. Pellentesque ac rutrum risus. Maecenas vel diam commodo, consectetur dui non, congue lorem. Integer lacinia varius velit in feugiat. Nullam aliquet scelerisque sapien, vel malesuada tellus molestie vitae. Nulla semper aliquam dolor, vitae tempor ligula tempus ac. Nunc turpis sem, pellentesque nec bibendum quis, cursus eget urna. Proin ullamcorper augue urna, vitae vehicula quam condimentum non. Integer non erat ut ligula tristique feugiat.</p>
+    <p>Morbi tempus sagittis purus imperdiet hendrerit. Morbi efficitur a enim ut blandit. Aliquam quis lobortis leo, eu rutrum mi. In sed nunc et sapien consequat accumsan. Phasellus nec dapibus leo, non semper erat. Nam elementum, velit ut lobortis malesuada, nibh enim dapibus odio, at luctus nunc libero at metus. Nulla vehicula quam et diam mattis vehicula.</p>
+    <p>Sed ut feugiat nibh. In sem nibh, vulputate eu hendrerit vitae, tristique ac odio. Duis tincidunt elementum ante, rhoncus egestas ex fermentum vel. Aliquam tristique aliquet scelerisque. Ut quam urna, facilisis sed volutpat a, sodales nec arcu. Curabitur rutrum, turpis nec consectetur fermentum, metus nibh cursus justo, id consequat dolor elit non ante. Pellentesque et diam finibus nibh consequat semper cursus quis augue. Nullam rhoncus porta commodo. Maecenas neque odio, tristique sed fermentum sed, rhoncus sit amet urna. Ut a blandit lectus. Cras sed justo consequat, semper ante vel, scelerisque sapien. Quisque convallis tortor felis, a rutrum felis rhoncus a.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum est nisl, condimentum quis sapien quis, feugiat iaculis leo. Vestibulum scelerisque ipsum felis, congue elementum nibh placerat quis. Phasellus ullamcorper sapien at dignissim dictum. Donec eget blandit odio. Sed feugiat velit a nulla semper, at fringilla magna tincidunt. Phasellus quis eleifend neque. Integer ipsum diam, tempor in nunc sit amet, tincidunt hendrerit leo. Nunc eleifend mi sed venenatis eleifend. Duis turpis ex, interdum blandit risus vitae, fermentum feugiat odio. Integer pharetra purus mattis lacus porttitor suscipit malesuada id arcu. Proin a risus finibus ligula dictum dapibus. Ut commodo suscipit scelerisque. Curabitur ut ipsum ac metus varius venenatis.</p>
   </div>
 </template>
 
