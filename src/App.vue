@@ -2,13 +2,13 @@
   <v-app>
     <v-app-bar color="primary" class="flex-grow-0" app>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
-      <v-app-bar-title>Internet Tools</v-app-bar-title>
+      <v-app-bar-title>Vue w/ Docker Example</v-app-bar-title>
     </v-app-bar>
     <v-navigation-drawer app v-model="drawer">
       <v-list-item>
         <v-list-item-content>
-          <v-list-item-title class="text-h6">Internet Tools</v-list-item-title>
-          <v-list-item-subtitle>Select the desired internet tool</v-list-item-subtitle>
+          <v-list-item-title class="text-h6">Vue w/ Docker Example</v-list-item-title>
+          <v-list-item-subtitle>Select a page below</v-list-item-subtitle>
         </v-list-item-content>
       </v-list-item>
       <v-divider></v-divider>
